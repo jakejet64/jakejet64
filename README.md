@@ -1,6 +1,6 @@
 ### Hello, I'm Jacky Thomas!
 
-[![LinkedIn](https://img.shields.io/badge/jacky-thomas-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jacky-thomas/)](https://www.linkedin.com/in/jacky-thomas/)
+[![LinkedIn](https://img.shields.io/badge/jackythomas-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jacky-thomas/)](https://www.linkedin.com/in/jacky-thomas/)
 [![GitHub](https://img.shields.io/badge/jakejet64%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/jakejet64)](https://github.com/jakejet64)
 [![Gmail](https://img.shields.io/badge/jakejet64%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:jakejet64@gmail.com)](mailto:jakejet64@gmail.com)
 
